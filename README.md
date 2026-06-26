@@ -87,7 +87,7 @@ Aprendo rápido, trabajo de forma autónoma y me enfoco en entregar soluciones q
   <a href="https://www.linkedin.com/in/damaris-qp/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://TU-PORTAFOLIO-AQUI.com">
+  <a href="https://damaris-quirpal.github.io/Portafolio/">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
