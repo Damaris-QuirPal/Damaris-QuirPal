@@ -84,7 +84,7 @@ Aprendo rápido, trabajo de forma autónoma y me enfoco en entregar soluciones q
   <a href="mailto:damarisqpalacios@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/TU-USUARIO-AQUI">
+  <a href="https://www.linkedin.com/in/damaris-qp/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://TU-PORTAFOLIO-AQUI.com">
