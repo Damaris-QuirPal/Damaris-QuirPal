@@ -74,7 +74,7 @@ Aprendo rápido, trabajo de forma autónoma y me enfoco en entregar soluciones q
 |-----|---------|---------|
 | Full Stack Developer Junior | MV-Line | Feb 2025 – Ago 2025 |
 | Desarrolladora Frontend · QA | IT Consultants S.A. | Dic 2021 – Ene 2024 |
-| Proyecto Personal (activo) | Gestión Inmobiliaria | Dic 2025 – Actual |
+| Proyecto Personal (activo) | Gestión Inmobiliaria | Dic 2025 – Sep 2026 |
 
 ---
 
